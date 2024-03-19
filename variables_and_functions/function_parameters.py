@@ -14,4 +14,14 @@ say_hello("Jojo")
 
 #Take 2 : Multiple Parameters
 
+# print 함수처럼 파라미터 여러개 넣고싶어.
+# 파라미터는 함수로 전달하는 데이터를 저장하기 위한 그릇(placeHolder)
+#
+def say_hello(user_name, user_age):
+    print("hello",user_name)
+    print("you are",user_age,"years old.")
 
+
+say_hello("Son", 12)
+# 파라미터는 무한으로 사용할수 있어. 그런데 그러지 않고 * 를 사용해.
+# 무한한 파라미터들을 받을 수도 있게 만들어 놨다. 나중에.
