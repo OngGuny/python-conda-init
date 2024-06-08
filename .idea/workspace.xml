@@ -4,12 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac9e005f-35ed-4b4d-99fe-239ff2f27f3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tasks/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variables_and_functions/function_default_parameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variables_and_functions/recap_var_and_func.py" afterDir="false" />
+    <list default="true" id="ac9e005f-35ed-4b4d-99fe-239ff2f27f3b" name="Changes" comment="studing">
+      <change afterPath="$PROJECT_DIR$/control_flow_3-1_/3-3_and_or.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/control_flow_3-1_/3-4_python_standard_library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/control_flow_3-1_/Recap_if_else_elif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/control_flow_3-1_/if_else_elif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variables_and_functions_2-1_/function_return_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variables_and_functions_2-1_/recap_return.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-conda-init.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-conda-init.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables_and_functions/function_parameters.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables_and_functions/function_parameters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables_and_functions/function_argument.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables_and_functions_2-1_/function_argument.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables_and_functions/function_default_parameters.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables_and_functions_2-1_/function_default_parameters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables_and_functions/function_indentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables_and_functions_2-1_/function_indentation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables_and_functions/function_parameters.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables_and_functions_2-1_/function_parameters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables_and_functions/recap_var_and_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables_and_functions_2-1_/recap_var_and_func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables_and_functions/variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables_and_functions_2-1_/variable.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +44,14 @@
       </map>
     </option>
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -48,26 +64,36 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.3-3_and_or.executor": "Run",
+    "Python.3-4_python_standard_library.executor": "Run",
+    "Python.Recap_if_else_elif.executor": "Debug",
     "Python.calculator.executor": "Run",
     "Python.function.executor": "Run",
     "Python.function_default_parameters.executor": "Run",
     "Python.function_parameters.executor": "Run",
+    "Python.if.executor": "Run",
+    "Python.if_else_elif.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.recap_return.executor": "Run",
     "Python.recap_var_and_func.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/98829/pycharm-workspace/python-conda-init/control_flow_3-1_",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.toDoOptions",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\98829\pycharm-workspace\python-conda-init\control_flow_3-1_" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\98829\pycharm-workspace\python-conda-init" />
     </key>
@@ -117,8 +143,21 @@
       <workItem from="1709474007634" duration="2039000" />
       <workItem from="1709557183847" duration="1801000" />
       <workItem from="1710073176258" duration="4339000" />
-      <workItem from="1710858321125" duration="1605000" />
+      <workItem from="1710858321125" duration="1626000" />
+      <workItem from="1712457744262" duration="1129000" />
+      <workItem from="1712458893198" duration="5136000" />
+      <workItem from="1715504252011" duration="1720000" />
+      <workItem from="1717847325442" duration="2057000" />
     </task>
+    <task id="LOCAL-00001" summary="studing">
+      <option name="closed" value="true" />
+      <created>1710860537134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710860537134</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,12 +174,22 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="studing" />
+    <option name="LAST_COMMIT_MESSAGE" value="studing" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_conda_init$3_4_python_standard_library.coverage" NAME="3-4_python_standard_library Coverage Results" MODIFIED="1717848443605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control_flow_3-1_" />
     <SUITE FILE_PATH="coverage/python_conda_init$recap_var_and_func.coverage" NAME="recap_var_and_func Coverage Results" MODIFIED="1710082596123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variables_and_functions" />
     <SUITE FILE_PATH="coverage/python_conda_init$function.coverage" NAME="function Coverage Results" MODIFIED="1709474834739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variables_and_functions" />
-    <SUITE FILE_PATH="coverage/python_conda_init$function_default_parameters.coverage" NAME="function_default_parameters Coverage Results" MODIFIED="1710858485085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variables_and_functions" />
-    <SUITE FILE_PATH="coverage/python_conda_init$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1710859169309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tasks" />
+    <SUITE FILE_PATH="coverage/python_conda_init$recap_return.coverage" NAME="recap_return Coverage Results" MODIFIED="1712461847013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variables_and_functions" />
     <SUITE FILE_PATH="coverage/python_conda_init$function_parameters.coverage" NAME="function_parameters Coverage Results" MODIFIED="1710080059328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variables_and_functions" />
-    <SUITE FILE_PATH="coverage/python_conda_init$main.coverage" NAME="main Coverage Results" MODIFIED="1710858478568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_conda_init$main.coverage" NAME="main Coverage Results" MODIFIED="1717848438233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_conda_init$Recap_if_else_elif.coverage" NAME="Recap_if_else_elif Coverage Results" MODIFIED="1715506074012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control_flow_3-1_" />
+    <SUITE FILE_PATH="coverage/python_conda_init$if.coverage" NAME="if Coverage Results" MODIFIED="1712463609064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control_flow" />
+    <SUITE FILE_PATH="coverage/python_conda_init$if_else_elif.coverage" NAME="if_else_elif Coverage Results" MODIFIED="1715505387641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control_flow_3-1_" />
+    <SUITE FILE_PATH="coverage/python_conda_init$function_default_parameters.coverage" NAME="function_default_parameters Coverage Results" MODIFIED="1710858485085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variables_and_functions" />
+    <SUITE FILE_PATH="coverage/python_conda_init$3_3_and_or.coverage" NAME="3-3_and_or Coverage Results" MODIFIED="1717847837150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control_flow_3-1_" />
+    <SUITE FILE_PATH="coverage/python_conda_init$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1710859169309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tasks" />
   </component>
 </project>
