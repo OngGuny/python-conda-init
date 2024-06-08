@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac9e005f-35ed-4b4d-99fe-239ff2f27f3b" name="Changes" comment="studing">
-      <change afterPath="$PROJECT_DIR$/control_flow_3-1_/3-3_and_or.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_flow_3-1_/3-4_python_standard_library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_flow_3-1_/Recap_if_else_elif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_flow_3-1_/if_else_elif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variables_and_functions_2-1_/function_return_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variables_and_functions_2-1_/recap_return.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-conda-init.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-conda-init.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/control_flow_3-1_/3-6_python_casino.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/control_flow_3-1_/3-7_recap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables_and_functions/function_argument.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables_and_functions_2-1_/function_argument.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables_and_functions/function_default_parameters.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables_and_functions_2-1_/function_default_parameters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables_and_functions/function_indentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables_and_functions_2-1_/function_indentation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables_and_functions/function_parameters.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables_and_functions_2-1_/function_parameters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables_and_functions/recap_var_and_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables_and_functions_2-1_/recap_var_and_func.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables_and_functions/variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables_and_functions_2-1_/variable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow_3-1_/3-5_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/control_flow_3-1_/3-5_while.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +55,8 @@
   "keyToString": {
     "Python.3-3_and_or.executor": "Run",
     "Python.3-4_python_standard_library.executor": "Run",
+    "Python.3-5_while.executor": "Run",
+    "Python.3-6_python_casino.executor": "Run",
     "Python.Recap_if_else_elif.executor": "Debug",
     "Python.calculator.executor": "Run",
     "Python.function.executor": "Run",
@@ -86,7 +77,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -147,7 +138,7 @@
       <workItem from="1712457744262" duration="1129000" />
       <workItem from="1712458893198" duration="5136000" />
       <workItem from="1715504252011" duration="1720000" />
-      <workItem from="1717847325442" duration="2057000" />
+      <workItem from="1717847325442" duration="7205000" />
     </task>
     <task id="LOCAL-00001" summary="studing">
       <option name="closed" value="true" />
@@ -168,7 +159,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="51" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="56" />
+                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="56" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -179,8 +178,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="studing" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_conda_init$3_4_python_standard_library.coverage" NAME="3-4_python_standard_library Coverage Results" MODIFIED="1717848443605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control_flow_3-1_" />
+    <SUITE FILE_PATH="coverage/python_conda_init$3_4_python_standard_library.coverage" NAME="3-4_python_standard_library Coverage Results" MODIFIED="1717853246145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control_flow_3-1_" />
     <SUITE FILE_PATH="coverage/python_conda_init$recap_var_and_func.coverage" NAME="recap_var_and_func Coverage Results" MODIFIED="1710082596123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variables_and_functions" />
+    <SUITE FILE_PATH="coverage/python_conda_init$3_6_python_casino.coverage" NAME="3-6_python_casino Coverage Results" MODIFIED="1717860201431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control_flow_3-1_" />
     <SUITE FILE_PATH="coverage/python_conda_init$function.coverage" NAME="function Coverage Results" MODIFIED="1709474834739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variables_and_functions" />
     <SUITE FILE_PATH="coverage/python_conda_init$recap_return.coverage" NAME="recap_return Coverage Results" MODIFIED="1712461847013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variables_and_functions" />
     <SUITE FILE_PATH="coverage/python_conda_init$function_parameters.coverage" NAME="function_parameters Coverage Results" MODIFIED="1710080059328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variables_and_functions" />
@@ -191,5 +191,6 @@
     <SUITE FILE_PATH="coverage/python_conda_init$function_default_parameters.coverage" NAME="function_default_parameters Coverage Results" MODIFIED="1710858485085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variables_and_functions" />
     <SUITE FILE_PATH="coverage/python_conda_init$3_3_and_or.coverage" NAME="3-3_and_or Coverage Results" MODIFIED="1717847837150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control_flow_3-1_" />
     <SUITE FILE_PATH="coverage/python_conda_init$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1710859169309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tasks" />
+    <SUITE FILE_PATH="coverage/python_conda_init$3_5_while.coverage" NAME="3-5_while Coverage Results" MODIFIED="1717854075424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control_flow_3-1_" />
   </component>
 </project>
