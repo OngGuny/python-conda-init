@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac9e005f-35ed-4b4d-99fe-239ff2f27f3b" name="Changes" comment="studing">
-      <change afterPath="$PROJECT_DIR$/control_flow/and_&amp;_or.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures/tuple.py" afterDir="false" />
+    <list default="true" id="ac9e005f-35ed-4b4d-99fe-239ff2f27f3b" name="Changes" comment="Add until 4.3 of DataStructure">
+      <change afterPath="$PROJECT_DIR$/data_structures/4-5_for_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/recap_4-4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +68,7 @@
     &quot;Python.recap_var_and_func.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/98829/pycharm-workspace/python-conda-init/control_flow_3-1_&quot;,
@@ -140,6 +138,14 @@
       <workItem from="1712458893198" duration="5136000" />
       <workItem from="1715504252011" duration="1720000" />
       <workItem from="1717847325442" duration="7205000" />
+      <workItem from="1719187244256" duration="788000" />
+      <workItem from="1719273731418" duration="369000" />
+      <workItem from="1719359884847" duration="596000" />
+      <workItem from="1719446451484" duration="218000" />
+      <workItem from="1720578336246" duration="344000" />
+      <workItem from="1720655471797" duration="251000" />
+      <workItem from="1721274518297" duration="1462000" />
+      <workItem from="1721347312314" duration="552000" />
     </task>
     <task id="LOCAL-00001" summary="studing">
       <option name="closed" value="true" />
@@ -149,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710860537134</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add until 4.3 of DataStructure">
+      <option name="closed" value="true" />
+      <created>1718960368676</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718960368676</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +190,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="studing" />
-    <option name="LAST_COMMIT_MESSAGE" value="studing" />
+    <MESSAGE value="Add until 4.3 of DataStructure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add until 4.3 of DataStructure" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_conda_init$lists.coverage" NAME="lists Coverage Results" MODIFIED="1718958847541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structures" />
@@ -189,12 +204,13 @@
     <SUITE FILE_PATH="coverage/python_conda_init$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1718960284311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structures" />
     <SUITE FILE_PATH="coverage/python_conda_init$if_else_elif.coverage" NAME="if_else_elif Coverage Results" MODIFIED="1715505387641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control_flow_3-1_" />
     <SUITE FILE_PATH="coverage/python_conda_init$3_3_and_or.coverage" NAME="3-3_and_or Coverage Results" MODIFIED="1717847837150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control_flow_3-1_" />
-    <SUITE FILE_PATH="coverage/python_conda_init$main.coverage" NAME="main Coverage Results" MODIFIED="1709560509248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_conda_init$main.coverage" NAME="main Coverage Results" MODIFIED="1719192592216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_conda_init$and___or.coverage" NAME="and_&amp;_or Coverage Results" MODIFIED="1717479037410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control_flow" />
     <SUITE FILE_PATH="coverage/python_conda_init$3_4_python_standard_library.coverage" NAME="3-4_python_standard_library Coverage Results" MODIFIED="1717853246145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control_flow_3-1_" />
     <SUITE FILE_PATH="coverage/python_conda_init$if.coverage" NAME="if Coverage Results" MODIFIED="1712463609064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control_flow" />
     <SUITE FILE_PATH="coverage/python_conda_init$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1710859169309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tasks" />
     <SUITE FILE_PATH="coverage/python_conda_init$recap_return.coverage" NAME="recap_return Coverage Results" MODIFIED="1712461847013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variables_and_functions" />
+    <SUITE FILE_PATH="coverage/python_conda_init$recap_4_4.coverage" NAME="recap_4-4 Coverage Results" MODIFIED="1721275393428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structures" />
     <SUITE FILE_PATH="coverage/python_conda_init$recap_var_and_func.coverage" NAME="recap_var_and_func Coverage Results" MODIFIED="1710082596123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variables_and_functions" />
     <SUITE FILE_PATH="coverage/python_conda_init$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1718959690070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structures" />
     <SUITE FILE_PATH="coverage/python_conda_init$3_5_while.coverage" NAME="3-5_while Coverage Results" MODIFIED="1717854075424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control_flow_3-1_" />
